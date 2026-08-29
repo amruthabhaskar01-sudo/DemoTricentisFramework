@@ -1,4 +1,4 @@
-from Demo_Tricentis_Framework.pages.login_page import LoginPage
+from pages.login_page import LoginPage
 import pytest
 
 @pytest.mark.smoke
