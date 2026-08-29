@@ -1,0 +1,8 @@
+selenium
+pytest
+openpyxl
+pytest-html
+
+
+## to install the package in requirements file
+## Open terminal and run : pip install -r requirements.txt
