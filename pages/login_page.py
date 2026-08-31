@@ -20,3 +20,6 @@ class LoginPage(BasePage):
 
     def click_login_button(self):
         self.click(self.login_button)
+
+
+'''adding a comment from github'''
